@@ -4,11 +4,10 @@ Hey there, doing well? I Hope so! I'm habthCanguru, a furry that is an artist, a
 It is my first time using GitHub, but probably not the last. This looks so new to me but I'm so happy because I'm now doing the thing that I'm always want to, being a programmer. So give me your luck, I'll need lul.
 
 ## About me (on programming)
-- This is my third week on programming.
-- Have learned HTML a little of CSS and JavaScript (I think this one don't count it) on mimos app and seen a course on the youtube from the channel called Programação Web of teather Dimitri.
+...
 
 ## About me (personal)
-- I'm 17 y/o.
+- I'm 19 y/o.
 - I make drawings since 2018.
 - I play eletric guittar.
 - I'm trans and my pronous are she/her.
