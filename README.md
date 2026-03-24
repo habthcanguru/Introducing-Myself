@@ -1,5 +1,5 @@
-# Welcome to my profile page! 🦘
-Hey there, doing well? I Hope so! I'm habthCanguru, an artist and now a programmer!
+# Welcome to my Main Page 🦘
+Hey there, doing well? I Hope so! I'm habthCanguru, an artist and a programmer.
 
 ## About me (on programming)
 ...
