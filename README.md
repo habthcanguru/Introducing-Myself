@@ -2,7 +2,9 @@
 Hey there, doing well? I Hope so! I'm habthCanguru, an artist and a programmer.
 
 ## About me (on programming)
-...
+- Java
+- SQL
+- Godot
 
 ## About me (personal)
 - 19 y/o.
